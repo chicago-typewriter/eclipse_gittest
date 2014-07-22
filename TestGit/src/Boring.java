@@ -12,6 +12,6 @@ public class Boring {
 
 	@Override
 	public String toString() {
-		return "Boring [boring=" + boring + "]";
+		return boring;
 	}
 }
