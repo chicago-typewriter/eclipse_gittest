@@ -8,6 +8,9 @@ public class MyMain {
 		
 		Boring b = new Boring("This is sooooooooooooooo boring");
 		System.err.println(b);
+		
+		Gooooooo g = new Gooooooo();
+		System.err.println(g);
 	}
 
 }
