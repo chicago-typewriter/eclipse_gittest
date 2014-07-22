@@ -5,6 +5,8 @@ public class MyMain {
 		Boring boring = new Boring();
 		boring.setBoring("So boring");
 		System.err.println(boring);
+		
+		System.err.println(new HaHa());
 	}
 
 }
