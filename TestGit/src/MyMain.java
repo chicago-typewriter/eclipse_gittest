@@ -11,6 +11,8 @@ public class MyMain {
 		
 		Gooooooo g = new Gooooooo();
 		System.err.println(g);
+		
+		System.err.println(new A());
 	}
 
 }
